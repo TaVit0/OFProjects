@@ -1,0 +1,6 @@
+set solib-search-path /home/tavi/Documentos/OF/of_v0.8.3_android/examples/android/activitiesOF/obj/local/x86:/home/tavi/Documentos/OF/of_v0.8.3_android/examples/android/activitiesOF/libs/x86
+directory /home/tavi/Documentos/OF/ndk/platforms/android-17/arch-arm/usr/include
+directory /home/tavi/Documentos/OF/of_v0.8.3_android/examples/android/activitiesOF/src
+directory /home/tavi/Documentos/OF/ndk/sources/cxx-stl/system
+directory /home/tavi/Documentos/OF/of_v0.8.3_android/examples/android/activitiesOF/libs/x86
+
